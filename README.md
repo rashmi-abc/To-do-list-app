@@ -1,6 +1,3 @@
-Sure! Here's a sample README description for a To-Do List app using HTML, CSS, and JavaScript:
-
----
 
 # To-Do List App
 
