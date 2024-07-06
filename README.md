@@ -74,7 +74,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [your-email@example.com](mailto:your-email@example.com)
+Your Name - rashmi04thewonder04@gmail.com
 
 Project Link: [https://github.com/yourusername/todo-list-app](https://github.com/yourusername/todo-list-app)
 
